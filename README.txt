@@ -1,5 +1,12 @@
 # README.md
 
+## REWORK INDVIDUAL ASSIGMMENT
+Nama: Satrio Adi Wibowo
+Program: AI Engineering Bootcamp
+Project: Data Preparation & Pipeline Project
+Absensi: AI-70
+Email: satrio.ugm@gmail.com
+
 ## Deskripsi Singkat & Sumber Dataset
 Dataset ini berisi karakteristik teknis dan spesifikasi mobil (seperti horsepower, peak-rpm, dimensi fisik) serta harga penjualannya. Dataset mentah diperoleh dari berkas pembelajaran internal `automobileEDA_dirty_training.csv`.
 
